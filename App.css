@@ -1,0 +1,22 @@
+.moto {
+    position: absolute;
+    width: 514px;
+    height: 96px;
+    left: 463px;
+    top: 368px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.logonavbar{
+    position: absolute;
+    width: 216.3px;
+    height: 77.77px;
+    left: 47px;
+    top: 43px;
+}
